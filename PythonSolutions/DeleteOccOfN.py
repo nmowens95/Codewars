@@ -1,5 +1,6 @@
-# Instructions:
+#Title: Delete occurrences of an element if it occurs more than n times
 
+# Instructions:
 '''
 Enough is enough!
 Alice and Bob were on a holiday. Both of them took many pictures
